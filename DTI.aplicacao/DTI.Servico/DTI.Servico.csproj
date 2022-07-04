@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Tnf.AutoMapper" Version="3.0.0.14603" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DTI.Dominio\DTI.Dominio.csproj" />
+    <ProjectReference Include="..\DTI.Infraestrutura\DTI.Infraestrutura.csproj" />
+  </ItemGroup>
+
+</Project>

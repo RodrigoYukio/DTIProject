@@ -1,0 +1,22 @@
+<div class="po-row" style="margin-top: 30px;">
+  <p class="po-md-4"></p>
+  <po-button class="po-md-4" p-icon="po-icon-plus" (p-click)="irCadastro()" p-label="Cadastrar atividade"></po-button>
+  <p class="po-md-4"></p>
+</div>
+
+<div class="po-row">
+  <p class="po-md-2"></p>
+  <po-page-list class="po-md-8" p-title="Funcionários Cadastrados">
+    <po-table
+      [p-selectable]="false"
+      [p-striped]="true"
+      [p-columns]="hiringProcessesColumns"
+      [p-items]="hiringProcessesFiltered"
+    >
+    </po-table>
+  </po-page-list> 
+  <p class="po-md-2"></p>
+</div>
+
+
+

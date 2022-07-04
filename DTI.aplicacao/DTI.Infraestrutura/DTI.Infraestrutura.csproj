@@ -1,0 +1,34 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="NovaPasta1\**" />
+    <Compile Remove="NovaPasta\**" />
+    <EmbeddedResource Remove="NovaPasta1\**" />
+    <EmbeddedResource Remove="NovaPasta\**" />
+    <None Remove="NovaPasta1\**" />
+    <None Remove="NovaPasta\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Devart.Data.PostgreSql" Version="7.19.1759" />
+    <PackageReference Include="Tnf.AspNetCore" Version="3.0.0.14603" />
+    <PackageReference Include="Tnf.EntityFrameworkCore" Version="3.0.0.14603" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DTI.Dominio.DTO\DTI.Dominio.DTO.csproj" />
+    <ProjectReference Include="..\DTI.Dominio\DTI.Dominio.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Repositorios\NovaPasta\" />
+  </ItemGroup>
+
+</Project>

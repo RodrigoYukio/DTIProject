@@ -1,0 +1,17 @@
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\obj\Debug\netcoreapp3.1\DTI.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\obj\Debug\netcoreapp3.1\DTI.Servico.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\obj\Debug\netcoreapp3.1\DTI.Servico.AssemblyInfo.cs
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\obj\Debug\netcoreapp3.1\DTI.Servico.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\obj\Debug\netcoreapp3.1\DTI.Servico.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\bin\Debug\netcoreapp3.1\DTI.Servico.deps.json
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\bin\Debug\netcoreapp3.1\DTI.Servico.dll
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\bin\Debug\netcoreapp3.1\DTI.Servico.pdb
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\bin\Debug\netcoreapp3.1\DTI.Dominio.dll
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\bin\Debug\netcoreapp3.1\DTI.Dominio.DTO.dll
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\bin\Debug\netcoreapp3.1\DTI.Infraestrutura.dll
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\bin\Debug\netcoreapp3.1\DTI.Dominio.pdb
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\bin\Debug\netcoreapp3.1\DTI.Infraestrutura.pdb
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\bin\Debug\netcoreapp3.1\DTI.Dominio.DTO.pdb
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\obj\Debug\netcoreapp3.1\DTI.Servico.dll
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\obj\Debug\netcoreapp3.1\DTI.Servico.pdb
+C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Servico\obj\Debug\netcoreapp3.1\DTI.Servico.csproj.CopyComplete

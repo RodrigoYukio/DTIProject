@@ -1,0 +1,158 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio.DTO\\DTI.Dominio.DTO.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio.DTO\\DTI.Dominio.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio.DTO\\DTI.Dominio.DTO.csproj",
+        "projectName": "DTI.Dominio.DTO",
+        "projectPath": "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio.DTO\\DTI.Dominio.DTO.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/tnf/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio\\DTI.Dominio.csproj": {
+                "projectPath": "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio\\DTI.Dominio.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Tnf.Dto": {
+              "target": "Package",
+              "version": "[3.1.0.26201, )"
+            },
+            "Tnf.Repositories": {
+              "target": "Package",
+              "version": "[3.0.0.14603, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio\\DTI.Dominio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio\\DTI.Dominio.csproj",
+        "projectName": "DTI.Dominio",
+        "projectPath": "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio\\DTI.Dominio.csproj",
+        "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Acer\\source\\repos\\DTI.aplicacao\\DTI.Dominio\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/tnf/api/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[8.6.2, )"
+            },
+            "Tnf.AspNetCore": {
+              "target": "Package",
+              "version": "[3.0.0.14603, )"
+            },
+            "Tnf.Domain": {
+              "target": "Package",
+              "version": "[3.0.0.14603, )"
+            },
+            "Tnf.Repositories": {
+              "target": "Package",
+              "version": "[3.0.0.14603, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

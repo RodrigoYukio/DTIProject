@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon />
+    <StartupObject />
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <OutputPath>C:\Users\Acer\source\repos\DTI.aplicacao\DTI.Dominio.DTO\bin\Debug</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Tnf.Dto" Version="3.1.0.26201" />
+    <PackageReference Include="Tnf.Repositories" Version="3.0.0.14603" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DTI.Dominio\DTI.Dominio.csproj" />
+  </ItemGroup>
+
+</Project>

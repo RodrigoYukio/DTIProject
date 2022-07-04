@@ -1,0 +1,40 @@
+<div class="po-row">
+    <p class="po-md-1"></p>
+    <po-info class="po-md-5" p-label="" p-value="Cadastro de Funcionario"> </po-info>
+    <p class="po-md-5"></p>
+</div>
+
+<form [formGroup]="formulario">
+    <div class="po-row">
+        <po-input class="po-md-4"  name="InputName" formControlName="nome" p-label="Nome"> </po-input>
+        <p class="po-md-4"></p>
+        <po-datepicker class="po-md-4" name="inputData" formControlName="data" p-label="Data de Nascimento" > </po-datepicker>
+    </div>
+
+    <div class="po-row">
+        <po-input class="po-md-4"  name="InputEndereco" formControlName="endereco" p-label="Endereco"> </po-input>
+        <p class="po-md-4"></p>
+        <po-input class="po-md-4"  name="InputTelefone"formControlName="telefone"  p-label="Telefone"> </po-input>
+    </div>
+        
+    <div class="po-row">
+        <po-input class="po-md-4"  name="InputEmail" formControlName="email" p-label="Email"> </po-input>
+        <p class="po-md-4"></p>
+        <po-input class="po-md-4"  name="InputCPF" formControlName="cpf" p-label="CPF"> </po-input>
+    </div>
+
+    <div class="po-row">
+        <p class="po-md-3"></p> 
+        <po-select class="po-md-6" name="selectSetor" formControlName="setor" [p-options]="setores" p-label="Setor"> </po-select>
+        <p class="po-md-3"></p>
+    </div>
+</form>
+
+<div class="po-row ">
+    <p class="po-md-3"></p>
+    <po-button class="po-md-3" (p-click)="finalizarCadastro()" p-label="Cadastrar Funcionario"> </po-button>
+    <po-button class="po-md-3" (p-click)="voltar()" p-label="Voltar"> </po-button>
+    <p class="po-md-3"></p>
+</div>
+
+

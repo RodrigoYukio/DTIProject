@@ -1,0 +1,172 @@
+------------------------------------------------------------------------
+12:26:48 quinta-feira, 30 de junho de 2022
+ERRO ->  :42P01: relation "ge_usuario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+12:31:38 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+14:36:01 quinta-feira, 30 de junho de 2022
+ERRO ->  :42P01: relation "ge_usuario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+14:36:38 quinta-feira, 30 de junho de 2022
+ERRO ->  :42P01: relation "ge_usuario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+14:37:37 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+14:39:29 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+14:53:22 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+14:53:43 quinta-feira, 30 de junho de 2022
+ERRO ->  :42P01: relation "ge_funcionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+14:54:10 quinta-feira, 30 de junho de 2022
+ERRO ->  :42P01: relation "ge_funcionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+17:33:55 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+17:34:09 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+18:07:23 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+18:07:59 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+18:09:09 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+18:19:39 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+18:20:32 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+18:20:53 quinta-feira, 30 de junho de 2022
+ERRO ->  :Missing type map configuration or unsupported mapping.
+
+Mapping types:
+AdicionarGe_FuncionarioDTO -> GE_FUNCIONARIO
+DTI.Dominio.DTO.AdicionarGe_FuncionarioDTO -> DTI.Dominio.Entidades.GE_FUNCIONARIO
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+21:05:38 quinta-feira, 30 de junho de 2022
+ERRO ->  :42P01: relation "ge_funcionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+21:06:26 quinta-feira, 30 de junho de 2022
+ERRO ->  :42P01: relation "ge_funcionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+21:07:00 quinta-feira, 30 de junho de 2022
+ERRO ->  :42P01: relation "ge_funcionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+09:39:30 sexta-feira, 1 de julho de 2022
+ERRO ->  :42P01: relation "seq_user" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+09:43:40 sexta-feira, 1 de julho de 2022
+ERRO ->  :42P01: relation "seq_funcionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+09:44:49 sexta-feira, 1 de julho de 2022
+ERRO ->  :42P01: relation "seq_funcionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+09:45:16 sexta-feira, 1 de julho de 2022
+ERRO ->  :42P01: relation "seq_funcionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+09:51:23 sexta-feira, 1 de julho de 2022
+ERRO ->  :42P01: relation "seqfucionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+09:53:26 sexta-feira, 1 de julho de 2022
+ERRO ->  :42P01: relation "seqfucionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+09:53:47 sexta-feira, 1 de julho de 2022
+ERRO ->  :42P01: relation "seqfucionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+09:54:21 sexta-feira, 1 de julho de 2022
+ERRO ->  :An error occurred while updating the entries. See the inner exception for details.
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+09:55:35 sexta-feira, 1 de julho de 2022
+ERRO ->  :42P01: relation "seqfucionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+10:37:45 sexta-feira, 1 de julho de 2022
+ERRO ->  :42P01: relation "seq_fucionario" does not exist
+------------------------------------------------------------------------
+------------------------------------------------------------------------
+10:38:19 sexta-feira, 1 de julho de 2022
+ERRO ->  :42703: column g.seqfuncionario does not exist
+------------------------------------------------------------------------
